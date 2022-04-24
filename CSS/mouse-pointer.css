@@ -1,0 +1,11 @@
+/** 普通指针样式**/
+body {
+    width: 100vw;
+    height: 100vh;
+    cursor: url('mouse/arr112.png'), auto;
+}
+
+/** 链接指针样式**/
+a:hover {
+    cursor: url('mouse/arr1.png'), pointer;
+}
